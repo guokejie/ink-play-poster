@@ -15,3 +15,9 @@
 | 提示词 | 生成效果 |
 | --- | --- |
 | 花店概念海报，白底黑墨手绘，三枝花与玻璃花瓶，旁放花艺剪刀，一朵花用亮橙色。细长手写标题：BLOOM SLOWLY。 | ![亮橙点色版花店概念海报](assets/examples/flower-bloom-slowly.png) |
+
+## 效果三：艺术展览概念海报
+
+| 提示词 | 生成效果 |
+| --- | --- |
+| 艺术展览海报，白底黑墨手绘，观众弯腰透过画框观看朱红色抽象雕塑。标题：ART IN PLAY，宽几何字搭配窄长手写字，右下小字作者：jiazhao。 | ![朱红点色版艺术展览海报，作者 jiazhao](assets/examples/art-in-play-jiazhao.png) |
