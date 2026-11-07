@@ -9,3 +9,9 @@
 | 提示词 | 生成效果 |
 | --- | --- |
 | 生成一个咖啡店概念海报。<br>主体文案：COFFEE & SLOW LIFE<br>地点用小字：上海市静安区愚园路 128 号<br>加上一个跳脱一点的颜色。 | ![钴蓝点色版咖啡店概念海报](assets/examples/coffee-slow-life-blue.png) |
+
+## 效果二：花店概念海报
+
+| 提示词 | 生成效果 |
+| --- | --- |
+| 花店概念海报，白底黑墨手绘，三枝花与玻璃花瓶，旁放花艺剪刀，一朵花用亮橙色。细长手写标题：BLOOM SLOWLY。 | ![亮橙点色版花店概念海报](assets/examples/flower-bloom-slowly.png) |
