@@ -1,0 +1,338 @@
+{
+  "version": 8,
+  "styles": [
+    {
+      "id": "P01",
+      "name": "黑块剪影俱乐部",
+      "family": "silhouette",
+      "file": "assets/posters/P01.png",
+      "source_filename": "微信图片_20261107164346_653_155.png",
+      "tags": [
+        "silhouette",
+        "黑块剪影俱乐部"
+      ],
+      "aesthetic": "大面积实黑拟人长鼻角色，帽子悬浮；杯子和手势以负形分离，慵懒而幽默。",
+      "composition": "人物左下裁切撑满高度，右上三行胖字，左上椭圆小标；右中留白容纳杯子。",
+      "palette": "黑白；黑墨略有灰阶，不是立体光照。",
+      "typography": "软块展示字；Coffee中大小写混合，C高而o矮圆，ff高挑；e的字腔小；三行长短和起点变化形成紧凑不规则词团；厚面填黑、圆转端部和不均匀外缘，字腔并非等大圆孔",
+      "transfer": "将新角色的轮廓变成识别符，保留实黑/负形节奏；更换姿态与物件，别复刻帽子长鼻组合。",
+      "type_profile": "soft-block",
+      "type_relationship": "偏置词团与大轮廓的负形互补",
+      "space_profile": {
+        "mode": "偏置巨形",
+        "density_map": "上右标题密、左下实黑密，中右负形疏",
+        "spatial_relation": "角色从下沿裁切、几乎贯穿全高，弯臂与杯围成负形；帽子分离又呼应头形",
+        "layers": "角色黑块/白脸细节、前伸手杯、悬浮帽形成平面层次",
+        "background": "白底主动成为脸和臂内的负形，无独立背景图案",
+        "whitespace": "椭圆小标与上右词团平衡重黑；中右空白为杯手提供可读空间"
+      },
+      "design_logic": {
+        "decision": "负形锚定",
+        "evidence": "巨形实黑与弯臂白区配重",
+        "failure_signal": "负形被纹理填满导致手杯读不清"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "帽/杯/手势各司身份和动作",
+      "casting_options": {
+        "observed": "黑块轮廓角色/拟人手势",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P02",
+      "name": "绿点复古时间",
+      "family": "retro-accent",
+      "file": "assets/posters/P02.png",
+      "source_filename": "微信图片_20261107164347_654_155.png",
+      "tags": [
+        "retro-accent",
+        "绿点复古时间"
+      ],
+      "aesthetic": "复古休闲人物、条纹上衣、蒸汽和软形时钟，轻快松弛。",
+      "composition": "上弧形标题、中央半身动作、下方衬线大字构成封闭视觉单元，外围留白。",
+      "palette": "近白纸底、黑墨、局部草绿；绿色用于时钟、星形和小标题。",
+      "typography": "弧排无衬线与底部衬线对照；上方COFFEE是近等粗无衬线大写，字轴顺拱形转动；下方O’CLOCK是带衬线的大字，小It’s为绿色斜体；上标题边缘较整洁，O字腔开阔，底行有尖角及衬线，不以破损为特征",
+      "transfer": "条纹和墨点提供干印质感；强调色只承担少数焦点，勿将整体变绿。",
+      "type_profile": "retro-contrast",
+      "type_relationship": "弧形标题拥抱主体，上弧与下方平直字块呼应",
+      "space_profile": {
+        "mode": "中心叙事团",
+        "density_map": "中央人物条纹和黑蒸汽密，上弧与下横字围合，外围疏",
+        "spatial_relation": "杯、手、袖、躯干相叠，人物横向撑开；钟形与标题靠近",
+        "layers": "实黑蒸汽、条纹人物、轻线星花与绿色构成主次",
+        "background": "背景白纸，星花和笔势只在场景周围；纹理发生于衣服和蒸汽内部",
+        "whitespace": "弧字与底部字把动作收成整体；外白包围完整团块，不应再扩大成内外全空"
+      },
+      "design_logic": {
+        "decision": "闭环读序",
+        "evidence": "上弧、人物、下字闭合",
+        "failure_signal": "装饰与衣纹同权重抢焦点"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "杯手/条纹/蒸汽围绕举杯，轻星花只作局部次级",
+      "casting_options": {
+        "observed": "简化人物举物、条纹衣袖",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P03",
+      "name": "粗线角色活动",
+      "family": "character-event",
+      "file": "assets/posters/P03.png",
+      "source_filename": "微信图片_20261107164348_655_155.png",
+      "tags": [
+        "character-event",
+        "粗线角色活动"
+      ],
+      "aesthetic": "狗形角色仰头举杯，粗糙黑轮廓、黑耳朵与音符，欢快的社区活动感。",
+      "composition": "顶端两行联名，主体形成左下到右上的斜势；左侧竖排、右侧斜日期、底部主办信息围绕角色。",
+      "palette": "纯黑白，耳朵与字块为黑色重心。",
+      "typography": "圆钝紧排手写大写；MAKA’S BAR与SOLEMATTO两行错位，单字窄宽不同，M张开、A内白小、O开阔；X独立为轻量符号；粗马克笔近单线，字端圆钝，直线有手写偏斜，圆弧不完全对称",
+      "transfer": "允许信息绕主体走，精确日期和地址用可控排字；勿带入原品牌或原日期。",
+      "type_profile": "perimeter",
+      "type_relationship": "标题错层，边注沿动作方向绕行，底部文字收束",
+      "space_profile": {
+        "mode": "周边环绕",
+        "density_map": "顶底字密，中心斜向轮廓与左黑耳强，边侧短信息填缝",
+        "spatial_relation": "举杯手臂斜向撑满画幅；杯手遮挡、头耳相接，大主体与边注共用空间",
+        "layers": "黑耳/黑字块、中空脸与臂、细信息分层；不是摄影景深",
+        "background": "白底；音符有音乐含义，左右信息随轮廓走而非背景贴纸",
+        "whitespace": "文字形成边缘框架，日期沿臂排；脸内空白用于识别，而非内容不足"
+      },
+      "design_logic": {
+        "decision": "斜势框架",
+        "evidence": "臂/杯斜向，侧字沿外轮廓",
+        "failure_signal": "顶底都加重字造成中心挤压"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "音符说明音乐、侧字沿动作而非任意贴角",
+      "casting_options": {
+        "observed": "动物侧脸与夸张动作",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P04",
+      "name": "散排手写器物",
+      "family": "loose-object",
+      "file": "assets/posters/P04.png",
+      "source_filename": "微信图片_20261107164349_656_155.png",
+      "tags": [
+        "loose-object",
+        "散排手写器物"
+      ],
+      "aesthetic": "滤杯与笑脸壶的幼拙线描，轻松的店内菜单语气。",
+      "composition": "标题分三行错落，器物占左下，右中小信息块利用壶嘴边空白。",
+      "palette": "白底黑线，几乎不填黑；无渐变。",
+      "typography": "细长自由散写；T横画伸出，O为歪椭圆，D竖画高出弧顶，Y长尾；ON THE与FILTER行起点变化，字不等宽且不共享严格字顶；近单线细马克笔，长笔段、局部回描和不齐接点；不是高粗细反差书法",
+      "transfer": "器物结构保留功能辨识，错落只作用于标题；不把风味词当通用素材。",
+      "type_profile": "loose-pen",
+      "type_relationship": "错落短行沿器物空隙推进，说明文字在安静区",
+      "space_profile": {
+        "mode": "错落贯穿",
+        "density_map": "上部散排标题、中下粗线器物；右中紧凑说明补足重心",
+        "spatial_relation": "滤杯叠在拟人壶上，轮廓错开；标题行起点错落",
+        "layers": "滤杯/壶的上下关系与粗细字组制造层次",
+        "background": "白底，无色块渐变或全底纹；粗线的空间路径承担背景结构",
+        "whitespace": "右侧说明占据器物旁空隙；画面虽少元素，但从上到下连续"
+      },
+      "design_logic": {
+        "decision": "错落连续",
+        "evidence": "标题行与壶/滤杯竖向串联",
+        "failure_signal": "文字等距后断开动势"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "滤杯与壶叠合，用功能器物接续文字",
+      "casting_options": {
+        "observed": "器物拟人或静物错落",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P05",
+      "name": "安静动物店牌",
+      "family": "quiet-mascot",
+      "file": "assets/posters/P05.png",
+      "source_filename": "微信图片_20261107164350_657_155.png",
+      "tags": [
+        "quiet-mascot",
+        "安静动物店牌"
+      ],
+      "aesthetic": "大耳考拉手冲，点眼黑鼻和局部黑杯，亲切安静。",
+      "composition": "上方有呼吸空间，中央角色及桌线稳定，底部两行店名居中、字距宽。",
+      "palette": "白底黑墨，黑鼻和黑杯作为两处锚点。",
+      "typography": "疏朗干印手写店牌；LIBRETTO主行窄长，B与R上部字腔不对称，O为不规则环；CAFE副行明显更小更疏；纵画较细且不完全直，横画长短变化；干涩边缘附着在明确骨架上",
+      "transfer": "少量粗糙断线、极简面部；可以换动物与动作，不复制角色造型及签名。",
+      "type_profile": "quiet-spacing",
+      "type_relationship": "字行呼吸与桌线呼应，不强行夸张或放胖",
+      "space_profile": {
+        "mode": "桌面场景",
+        "density_map": "中部角色、前景杯与器具较密；底部品牌双行，顶部适度疏",
+        "spatial_relation": "大耳轮廓撑宽，手与壶重叠，桌线横贯画面，杯靠前",
+        "layers": "黑鼻/黑杯实黑锚点；中景角色、桌前器具组成遮挡层",
+        "background": "背景白纸，桌线定义场景；无需虚构远景",
+        "whitespace": "顶部空白给大耳呼吸，底字稳住场景；不能提炼成孤立小动物加大空白"
+      },
+      "design_logic": {
+        "decision": "场景分层",
+        "evidence": "角色—桌线—前杯相叠",
+        "failure_signal": "仅剩孤立动物失去操作关系"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "壶滤杯桌线组成操作关系，前景器物形成深度",
+      "casting_options": {
+        "observed": "温柔动物操作器物",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P06",
+      "name": "动态角色联名",
+      "family": "motion-event",
+      "file": "assets/posters/P06.png",
+      "source_filename": "微信图片_20261107164351_658_155.png",
+      "tags": [
+        "motion-event",
+        "动态角色联名"
+      ],
+      "aesthetic": "圆身人物大步拖着载杯小车，荒诞但一眼读懂动作。",
+      "composition": "上方超重品牌字与小无衬线标题；左中活动信息，下半部横向动势；四边宽留白。",
+      "palette": "黑白，标题实黑与中空人物平衡。",
+      "typography": "超重紧密展示字；KLARO为大黑面，K紧靠L，A三角内白、R斜腿、O偏置圆孔各异；相邻字高宽和字底并不完全一致；胖笔画与不规则墨边、局部尖转角并存，不能概括为全圆角",
+      "transfer": "为新主题构建明确的动作动词；保留标题与插画重量反差，不强制每次都拖车。",
+      "type_profile": "heavy-light",
+      "type_relationship": "标题有局部升降，动势与角色步伐呼应",
+      "space_profile": {
+        "mode": "双重重量",
+        "density_map": "上部大黑字、下部横向人物小车，左中信息填补两者间空隙",
+        "spatial_relation": "人物步幅与车杆跨过大部分宽度，杯车与手杆相连",
+        "layers": "重标题、中空角色、实黑帽/咖啡、细信息；动作而非投影制造深度",
+        "background": "白底；车/杆/蒸汽均服务拖行动作",
+        "whitespace": "空白为运动方向留路；缺少信息的新任务应调整上下间距，不保留空槽"
+      },
+      "design_logic": {
+        "decision": "双锚运动",
+        "evidence": "上黑标题与下动作相呼应",
+        "failure_signal": "标题/人物两团间留空槽"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "小车、拖杆、杯连成一个动作链",
+      "casting_options": {
+        "observed": "人物动势与荒诞尺度",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P07",
+      "name": "编辑封面",
+      "family": "editorial",
+      "file": "assets/posters/P07.png",
+      "source_filename": "微信图片_20261107164352_659_155.png",
+      "tags": [
+        "editorial",
+        "编辑封面"
+      ],
+      "aesthetic": "几何刊头、窄长字和多臂人物组成编辑插画，机灵忙碌。",
+      "composition": "超大横向刊头→倒三角居中信息→下半人物；右下期号为边注。",
+      "palette": "近白底黑墨；线条比第3/6张细，刊头更规整。",
+      "typography": "规整刊头与窄长手写正文；全图PAGE为几何宽刊头；当前标题裁切实际是窄长正文：竖画高、弧部狭长、行长收放成倒三角；刊头整洁平面；正文细笔、轻微弯竖及衬线感端部，二者对比比随机抖动更关键",
+      "transfer": "可迁移到阅读、创意与工作主题；多臂是表达多任务的隐喻而非必须元素，不复制PAGE商标。",
+      "type_profile": "editorial",
+      "type_relationship": "编辑式分组、收放行长，边注离开中轴",
+      "space_profile": {
+        "mode": "编辑串联",
+        "density_map": "刊头和中上密集窄字、下部多臂角色；右下期号独立",
+        "spatial_relation": "多臂举物抬向信息区，下方桌/纸形成展开的前景",
+        "layers": "宽刊头vs窄正文；手臂交错、手机与纸张遮挡，黑手机小锚点",
+        "background": "白底；桌线与纸张斜边构成空间，不靠背景图案",
+        "whitespace": "信息行长收放，角色手臂承接上文；不是普通单品上下三段"
+      },
+      "design_logic": {
+        "decision": "宽窄编辑",
+        "evidence": "宽刊头+窄字+多臂向上承接",
+        "failure_signal": "字全放大后信息失去层级"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "多手、手机、纸杯对应多任务，不能盲目添道具",
+      "casting_options": {
+        "observed": "多臂隐喻多任务",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P08",
+      "name": "细线单品问句",
+      "family": "fine-object",
+      "file": "assets/posters/P08.png",
+      "source_filename": "微信图片_20261107164352_660_155.png",
+      "tags": [
+        "fine-object",
+        "细线单品问句"
+      ],
+      "aesthetic": "单只条纹杯碟，细线歪椭圆、平涂黑咖啡，直接而俏皮。",
+      "composition": "顶部巨型问句，中间孤立器物，下部两行松散小字，三级垂直结构。",
+      "palette": "白底黑墨；小面积黑填充，大片空白。",
+      "typography": "弹性宽窄展示字；COFFEE?中C巨大开口、O较窄、首F高，后续E缩小，问号又放大；整行并非等大而有端点呼应；厚而较平的笔画、钝直切端和不规则转角，少量边缘起伏",
+      "transfer": "以新单品及短问句构造焦点；细线不可被统一加粗，避免带入原营业时间与签名。",
+      "type_profile": "elastic-display",
+      "type_relationship": "标题可沿单品轮廓走弧，或被单品轮廓轻触，不固定上字下图",
+      "space_profile": {
+        "mode": "单品内部细节",
+        "density_map": "上部重标题、中部杯碟细线密、底部手写信息；不是只有两项",
+        "spatial_relation": "杯与碟占据大段宽高，椭圆套叠、竖纹重复，黑液面强化体量",
+        "layers": "杯前/碟后和内外椭圆构层；细竖纹与黑标题重量差",
+        "background": "白底；纹理在器物上，不出现复杂背景",
+        "whitespace": "上下信息与中部主体有三级节奏；新主题无小字时收紧间距或扩大主体，不能照留原信息槽"
+      },
+      "design_logic": {
+        "decision": "细节内聚",
+        "evidence": "杯竖纹/碟椭圆增强体量",
+        "failure_signal": "纹理多于轮廓，器物身份模糊"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "杯碟叠合和主体内部重复纹理解释结构",
+      "casting_options": {
+        "observed": "无需角色的器物内部节奏",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    },
+    {
+      "id": "P09",
+      "name": "连笔日常静物",
+      "family": "script-stilllife",
+      "file": "assets/posters/P09.png",
+      "source_filename": "微信图片_20261107164353_661_155.png",
+      "tags": [
+        "script-stilllife",
+        "连笔日常静物"
+      ],
+      "aesthetic": "马克笔连笔字与粗蜡笔感摩卡壶、马克杯，温暖日常。",
+      "composition": "上方两行连笔标题与右侧大壶穿插，左下小杯平衡，底部两行手写句。",
+      "palette": "白底黑/深灰；文字可见笔触灰阶，不存在彩色渐变。",
+      "typography": "连续环圈手写字；coffee的双f高环与下伸长环构成上下起伏，o与e开口/闭口变化；连接线穿行，词团一气展开；灰黑马克笔宽线与细连接过渡，边缘较平顺，字的曲线路径本身是个性",
+      "transfer": "适合短标题和仪式感主题；中文改用可读的圆润手写字，不能生搬拉丁连笔。",
+      "type_profile": "flow-script",
+      "type_relationship": "文字延伸线与器物穿插，笔画与轮廓互相让位",
+      "space_profile": {
+        "mode": "图文咬合",
+        "density_map": "上部大连笔与右侧大壶，中左杯与底部字；各区互补",
+        "spatial_relation": "字与摩卡壶轮廓穿插，杯小壶大，壶几乎贯穿中部",
+        "layers": "黑手柄、壶杯轮廓、灰阶笔触；重叠和尺度区分前后",
+        "background": "白底，文字伸展笔画参与空间分割，无渐变或色块背景",
+        "whitespace": "字团和器物填进彼此不规则余隙，留白是小而连续的通道"
+      },
+      "design_logic": {
+        "decision": "字物咬合",
+        "evidence": "大壶和环圈字占彼此余隙",
+        "failure_signal": "文字缩成普通顶部标题"
+      },
+      "chinese_adaptation": "原图多为拉丁字，中文需按整组轮廓/光学字距/产品曲线独立适配；不将手写等同粗毛笔或随机错位。",
+      "association_logic": "大小器物与字团在不规则空隙互补",
+      "casting_options": {
+        "observed": "字物互补静物，可按主题引入角色但非必要",
+        "transfer": "迁移轮廓/线面/动作关系，创作新角色；不复制身份，不固定每次使用。"
+      }
+    }
+  ]
+}

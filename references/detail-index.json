@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "P01-title",
+      "parent": "P01",
+      "axis": "title",
+      "path": "assets/details/P01-title.png",
+      "crop_normalized": [
+        0.46,
+        0.04,
+        0.96,
+        0.29
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P01-line",
+      "parent": "P01",
+      "axis": "line",
+      "path": "assets/details/P01-line.png",
+      "crop_normalized": [
+        0.06,
+        0.16,
+        0.55,
+        0.68
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P01-mass",
+      "parent": "P01",
+      "axis": "mass",
+      "path": "assets/details/P01-mass.png",
+      "crop_normalized": [
+        0.06,
+        0.3,
+        0.88,
+        0.96
+      ],
+      "role": "仅控制实黑与负形的重量关系",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P02-title",
+      "parent": "P02",
+      "axis": "title",
+      "path": "assets/details/P02-title.png",
+      "crop_normalized": [
+        0.12,
+        0.19,
+        0.88,
+        0.34
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P02-line",
+      "parent": "P02",
+      "axis": "line",
+      "path": "assets/details/P02-line.png",
+      "crop_normalized": [
+        0.12,
+        0.36,
+        0.85,
+        0.76
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P02-accent",
+      "parent": "P02",
+      "axis": "accent",
+      "path": "assets/details/P02-accent.png",
+      "crop_normalized": [
+        0.23,
+        0.25,
+        0.51,
+        0.42
+      ],
+      "role": "仅控制强调色及其稀疏程度",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P03-title",
+      "parent": "P03",
+      "axis": "title",
+      "path": "assets/details/P03-title.png",
+      "crop_normalized": [
+        0.05,
+        0.02,
+        0.95,
+        0.19
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P03-line",
+      "parent": "P03",
+      "axis": "line",
+      "path": "assets/details/P03-line.png",
+      "crop_normalized": [
+        0.13,
+        0.19,
+        0.9,
+        0.71
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P03-mass",
+      "parent": "P03",
+      "axis": "mass",
+      "path": "assets/details/P03-mass.png",
+      "crop_normalized": [
+        0.13,
+        0.29,
+        0.3,
+        0.65
+      ],
+      "role": "仅控制实黑与负形的重量关系",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P04-title",
+      "parent": "P04",
+      "axis": "title",
+      "path": "assets/details/P04-title.png",
+      "crop_normalized": [
+        0.05,
+        0.03,
+        0.95,
+        0.4
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P04-line",
+      "parent": "P04",
+      "axis": "line",
+      "path": "assets/details/P04-line.png",
+      "crop_normalized": [
+        0.03,
+        0.4,
+        0.64,
+        0.96
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P05-title",
+      "parent": "P05",
+      "axis": "title",
+      "path": "assets/details/P05-title.png",
+      "crop_normalized": [
+        0.12,
+        0.75,
+        0.8,
+        0.92
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P05-line",
+      "parent": "P05",
+      "axis": "line",
+      "path": "assets/details/P05-line.png",
+      "crop_normalized": [
+        0.16,
+        0.14,
+        0.78,
+        0.7
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P05-mass",
+      "parent": "P05",
+      "axis": "mass",
+      "path": "assets/details/P05-mass.png",
+      "crop_normalized": [
+        0.47,
+        0.53,
+        0.74,
+        0.71
+      ],
+      "role": "仅控制实黑与负形的重量关系",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P06-title",
+      "parent": "P06",
+      "axis": "title",
+      "path": "assets/details/P06-title.png",
+      "crop_normalized": [
+        0.15,
+        0.18,
+        0.84,
+        0.36
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P06-line",
+      "parent": "P06",
+      "axis": "line",
+      "path": "assets/details/P06-line.png",
+      "crop_normalized": [
+        0.12,
+        0.45,
+        0.92,
+        0.86
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P07-title",
+      "parent": "P07",
+      "axis": "title",
+      "path": "assets/details/P07-title.png",
+      "crop_normalized": [
+        0.17,
+        0.2,
+        0.82,
+        0.4
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P07-line",
+      "parent": "P07",
+      "axis": "line",
+      "path": "assets/details/P07-line.png",
+      "crop_normalized": [
+        0.17,
+        0.4,
+        0.82,
+        0.96
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P08-title",
+      "parent": "P08",
+      "axis": "title",
+      "path": "assets/details/P08-title.png",
+      "crop_normalized": [
+        0.04,
+        0.1,
+        0.96,
+        0.34
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P08-line",
+      "parent": "P08",
+      "axis": "line",
+      "path": "assets/details/P08-line.png",
+      "crop_normalized": [
+        0.12,
+        0.39,
+        0.85,
+        0.78
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P09-title",
+      "parent": "P09",
+      "axis": "title",
+      "path": "assets/details/P09-title.png",
+      "crop_normalized": [
+        0.02,
+        0.02,
+        0.9,
+        0.29
+      ],
+      "role": "仅控制字形比例、笔触与字间节奏，不提供原文",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    },
+    {
+      "id": "P09-line",
+      "parent": "P09",
+      "axis": "line",
+      "path": "assets/details/P09-line.png",
+      "crop_normalized": [
+        0.49,
+        0.22,
+        0.99,
+        0.76
+      ],
+      "role": "仅控制线宽、转折、闭合与笔触，不提供角色或器物身份",
+      "priority": "primary",
+      "usage": "reference-only",
+      "forbidden": [
+        "复制原图文字、品牌或签名",
+        "复制主体造型或局部直接贴进成图"
+      ]
+    }
+  ]
+}

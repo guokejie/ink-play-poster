@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑墨手绘海报"
+  short_description: "从九张参考提炼黑墨手绘语言，支持原创海报、风格融合与准确排字"
+  default_prompt: "使用 $ink-play-poster，按我的一句话需求生成黑墨手绘海报并校验文字。"
